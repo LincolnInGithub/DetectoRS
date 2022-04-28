@@ -1,3 +1,3 @@
-# YOLOv4-Paddle
+# DetectoRS
 飞桨论文复现挑战赛
-论文名称： YOLOv4: Optimal Speed and Accuracy of Object Detection
+论文名称： DetectoRS:Detecting Objects with Recursive Feature Pyramid and Switchable Atrous Convolution
